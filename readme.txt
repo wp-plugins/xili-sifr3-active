@@ -10,7 +10,7 @@ xili-sIFR3-active activate the modules of sIFR3 in your current theme to display
 
 == Description ==
 
-xili-sIFR3-active activate the modules of sIFR3 in your current theme and detect the specific configurations for sIFR3 in your theme.
+xili-sIFR3-active activate the modules of sIFR3 in your current theme to display smart fonts and texts and detect the specific configurations for sIFR3 in your theme.
 
 **prerequisite**
 This first version is for "themes" designer and developer with knowledges
