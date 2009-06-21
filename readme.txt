@@ -6,15 +6,15 @@ Requires at least: 2.7.0
 Tested up to: 2.8
 Stable tag: 0.9.2
 
-xili-sIFR3-active activate the modules of sIFR3 in your current theme to display smart fonts and texts. 
+xili-sIFR3-active activate the modules of sIFR3 in your current theme. 
 
 == Description ==
 
-xili-sIFR3-active activate the modules of sIFR3 in your current theme to display smart fonts and texts and detect the specific configurations for sIFR3 in your theme.
+xili-sIFR3-active activate the modules of sIFR3 in your current theme and detect the specific configurations for sIFR3 in your theme.
 
 **prerequisite**
 This first version is for "themes" designer and developer with knowledges
-about sIFR3 : [sIFR3 documentation](http://wiki.novemberborn.net/sifr3/ "sIFR3 documentation") and [Site to generate .swf font files compatible with sIFR3](http://www.sifrgenerator.com/ "to generate font.swf files").
+about sIFR3 :[sIFR3 documentation](http://wiki.novemberborn.net/sifr3/ "sIFR3 documentation") and [Site to generate .swf font files compatible with sIFR3](http://www.sifrgenerator.com/ "to generate font.swf files").
 	
 The plugin provide a dynamic way to activate the sIFR3 .js and .css file in the selected pages by you through a function in the functions.php of your current theme. (see below)
 
@@ -61,26 +61,21 @@ Because it is reserved for future options (and open for other developers !).
 = When sIFR3 is activated, I see both standard H2 just after flash text : why ? =
 the ’sifr.css’ file is not in right places (theme subfolder or plugins subfolder) so cannot be found. Verify by comparing html source and content of folder.
 
-= Is xili-sIFR3-active compatible with xilitheme-select plugin ? =
-Yes only with the desktop part because iphone safari browser don't use flash as used in sIfr3.
-[xilitheme-select](http://wordpress.org/extend/plugins/xilitheme-select/).
-
-= Is xili-sIFR3-active compatible with xili-language plugin ? =
-Yes, of course, because sifr3 is based on texts which can also be live translated.
-[xili-language](http://wordpress.org/extend/plugins/xili-language/).
-
 == Screenshots ==
 
 1. an example of wp-content/themes folder
 2. the admin settings UI
 
-== More infos ==
+== Changelog ==
 
-0.9.2 : third release 090210 - fix when 'wpurl' is not 'siteurl'
+= 0.9.2 = 
+* third release 090210,
+* fix when 'wpurl' is not 'siteurl'
+= 0.9.1 = 
+* second release with minor fix and more docs.
+= 0.9.0 =  
+* first public release 090204.
 
-0.9.1 : second release with minor fix and more docs.
-
-0.9.0 : first public release 090204.
+© 2009-06-21 MS dev.xiligroup.com
 
 
-090325 @ dev.xiligroup.com - more info [here](http://dev.xiligroup.com/) .
