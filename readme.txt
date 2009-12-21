@@ -3,7 +3,7 @@ Contributors: MS xiligroup
 Donate link: http://dev.xiligroup.com/xili-sifr3-active/
 Tags: theme,sIFR,sIFR3,Post,plugin,posts,admin,flash,font,theme
 Requires at least: 2.7.0
-Tested up to: 2.8.4
+Tested up to: 2.9
 Stable tag: 0.9.2
 
 xili-sIFR3-active activate the modules of sIFR3 in your current theme. 
