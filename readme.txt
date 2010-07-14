@@ -3,7 +3,7 @@ Contributors: MS xiligroup
 Donate link: http://dev.xiligroup.com/xili-sifr3-active/
 Tags: theme,sIFR,sIFR3,Post,plugin,posts,admin,flash,font,theme
 Requires at least: 2.7.0
-Tested up to: 2.9
+Tested up to: 3.0
 Stable tag: 0.9.2
 
 xili-sIFR3-active activate the modules of sIFR3 in your current theme. 
@@ -76,6 +76,11 @@ the ’sifr.css’ file is not in right places (theme subfolder or plugins subfo
 = 0.9.0 =  
 * first public release 090204.
 
-© 2009-06-21 07-18 MS dev.xiligroup.com
+== Upgrade Notice ==
 
+As usually, don't forget to backup the database before major upgrade or testing no-current version.
+Upgrading can be easily procedeed through WP admin UI or through ftp.
 
+== More Infos ==
+A post with sIFR3 active on WP 3.0 is visible [here](http://dev.xiligroup.com/?p=235). *(the same page before updating from 2.9 to 3.0)*
+© 2010-07-14 MS dev.xiligroup.com
