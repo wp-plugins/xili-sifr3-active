@@ -61,6 +61,10 @@ Because it is reserved for future options (and open for other developers !).
 = When sIFR3 is activated, I see both standard H2 just after flash text : why ? =
 the ’sifr.css’ file is not in right places (theme subfolder or plugins subfolder) so cannot be found. Verify by comparing html source and content of folder.
 
+= Support Forum or contact form ? =
+
+Effectively, prefer [forum](http://forum2.dev.xiligroup.com/) to have support (with delay around one or two days - here European Time).
+
 == Screenshots ==
 
 1. an example of wp-content/themes folder
