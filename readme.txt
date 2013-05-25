@@ -3,8 +3,8 @@ Contributors: michelwppi, MS xiligroup
 Donate link: http://dev.xiligroup.com/xili-sifr3-active/
 Tags: theme,sIFR,sIFR3,Post,plugin,posts,admin,flash,font,theme, child theme
 Requires at least: 2.7.0
-Tested up to: 3.3
-Stable tag: 0.9.5
+Tested up to: 3.5.1
+Stable tag: 0.9.6
 
 xili-sIFR3-active activate the modules of sIFR3 in your current theme or child theme. 
 
@@ -68,6 +68,8 @@ the ’sifr.css’ file is not in right places (theme subfolder or plugins subfo
 
 == Changelog ==
 
+= 0.9.6 =
+* maintenance release - test 3.5.1
 = 0.9.5 =
 * maintenance release
 = 0.9.4 =
@@ -80,6 +82,6 @@ the ’sifr.css’ file is not in right places (theme subfolder or plugins subfo
 = 0.9.0 =  
 * first public release 090204.
 
-© 2012-01-22 MS dev.xiligroup.com
+© 2013-05-25 MS dev.xiligroup.com
 
 
